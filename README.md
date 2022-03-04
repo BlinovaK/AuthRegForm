@@ -1,3 +1,3 @@
 # Auth-Reg_form
-HTML and CSS by dbl1nov
+<p>HTML and CSS by dbl1nov</p>
 PHP by BlinovaK
